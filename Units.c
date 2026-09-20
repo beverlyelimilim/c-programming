@@ -1,4 +1,4 @@
-.#include <stdio.h>
+#include <stdio.h>
 //Author:Beverly Elimlim
 
 int main(){
